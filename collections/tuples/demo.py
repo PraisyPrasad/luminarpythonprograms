@@ -1,0 +1,2 @@
+tp=()
+print(type(tp))
